@@ -1,6 +1,6 @@
 import random
-def print_bye():
+def print_halo():
     name = input("Please input your name:\n")
-    print("Goodbye~, "+name+".\n")
+    print("Hello~, "+name+".\n")
 
-print_bye()
+print_halo()
